@@ -1,0 +1,25 @@
+cliente,segmento,canal,accion,asunto,mensaje,proximo_paso,motivo,origen
+Veterinaria Huellas,Alto,Email,Seguimiento firme + plan de pagos,Regularización de saldo pendiente - Veterinaria Huellas,"Estimado/a Martín:
+
+El saldo vencido de Veterinaria Huellas asciende a $ 8.119.423,14 (7 facturas, 90 días de atraso). Necesitamos regularizarlo durante esta semana. Si le resulta útil, podemos acordar un plan de pagos en cuotas. Link de pago: {LINK_PAGO}.
+
+¿Podemos coordinar una llamada mañana?",Llamada de seguimiento en 48 h; proponer plan de pagos,"90 días de atraso, saldo alto para la cartera, historial de pagos tardíos, 1 promesa incumplida",Plantilla
+Óptica Visión,Crítico,WhatsApp,Escalamiento a responsable,,"Hola Andrés. El saldo vencido es de $ 4.726.030,61 (5 facturas, 101 días). Para mantener la cuenta operativa necesitamos acordar hoy una fecha de pago o un plan. Link: {LINK_PAGO}. ¿Te llamo hoy?",Llamada del responsable de créditos hoy; evaluar suspensión de despachos,"101 días de atraso, saldo alto para la cartera, historial de pagos tardíos, 4 promesas incumplidas",Plantilla
+Farmacia Central,Alto,WhatsApp,Seguimiento firme + plan de pagos,,"Hola Martín. El saldo vencido es de $ 5.294.685,01 (2 facturas, 54 días de atraso) y necesitamos regularizarlo esta semana. Si te sirve, armamos un plan de pagos. Link: {LINK_PAGO}. ¿Hablamos mañana?",Llamada de seguimiento en 48 h; proponer plan de pagos,"atraso de 54 días, saldo alto para la cartera, historial de pagos tardíos, 4 promesas incumplidas",Plantilla
+Constructora Andes S.R.L.,Medio,Email,Recordatorio con detalle,"Saldo vencido de Constructora Andes S.R.L.: $ 5.791.366,06","Estimado/a Laura:
+
+Registramos 3 facturas vencidas de Constructora Andes S.R.L. por un total de $ 5.791.366,06, con 5 días de atraso. ¿Podría confirmarnos la fecha estimada de pago? Puede abonar directamente aquí: {LINK_PAGO}.
+
+Saludos cordiales.",Llamar si no hay respuesta en 3 días,saldo alto para la cartera,Plantilla
+Lácteos La Pradera S.A.,Medio,Email,Recordatorio con detalle,"Saldo vencido de Lácteos La Pradera S.A.: $ 5.986.124,71","Estimado/a Carla:
+
+Registramos 1 factura vencida de Lácteos La Pradera S.A. por un total de $ 5.986.124,71, con 3 días de atraso. ¿Podría confirmarnos la fecha estimada de pago? Puede abonar directamente aquí: {LINK_PAGO}.
+
+Saludos cordiales.",Llamar si no hay respuesta en 3 días,saldo alto para la cartera,Plantilla
+Supermercados Norte S.A.,Medio,WhatsApp,Recordatorio con detalle,,"Hola Federico. Tenemos 2 facturas vencidas por $ 4.688.784,28, con 13 días de atraso. ¿Me confirmás la fecha de pago? Podés abonar acá: {LINK_PAGO}.",Llamar si no hay respuesta en 3 días,saldo alto para la cartera,Plantilla
+Panadería San Martín,Medio,WhatsApp,Recordatorio con detalle,,"Hola Valeria. Tenemos 2 facturas vencidas por $ 2.417.531,96, con 41 días de atraso. ¿Me confirmás la fecha de pago? Podés abonar acá: {LINK_PAGO}.",Llamar si no hay respuesta en 3 días,"atraso de 41 días, 1 promesa incumplida",Plantilla
+Bodega Los Álamos,Medio,Email,Recordatorio con detalle,"Saldo vencido de Bodega Los Álamos: $ 3.652.922,55","Estimado/a Valeria:
+
+Registramos 2 facturas vencidas de Bodega Los Álamos por un total de $ 3.652.922,55, con 18 días de atraso. ¿Podría confirmarnos la fecha estimada de pago? Puede abonar directamente aquí: {LINK_PAGO}.
+
+Saludos cordiales.",Llamar si no hay respuesta en 3 días,"atraso de 18 días, saldo alto para la cartera",Plantilla
